@@ -1,2 +1,2 @@
 # public_documents
-Public documents
+Public documents repository
